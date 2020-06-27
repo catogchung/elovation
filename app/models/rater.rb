@@ -66,7 +66,7 @@ module Rater
   end
 
   class TrueSkillRater
-    DefaultValue = 0
+    DefaultValue = 1200
     DefaultMean = 25
     DefaultDeviation = 25.0/3.0
 
